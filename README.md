@@ -13,3 +13,5 @@ RASP Pi 4 LED BINARY DIGITS AND THREE 8b  74HC595 SHIFT REGISTERS
 https://youtube.com/playlist?list=PL-Jc1Yxezi_TOR8jY5l94UJ7WbXld1p1y&si=5swoHEvi_sBxn9TA
 
 Joseph C. Richardson, GitHub.com
+
+I am almost a complete Walking Human Computer Science Research Laboratory Machine on Two Legs. 😁
